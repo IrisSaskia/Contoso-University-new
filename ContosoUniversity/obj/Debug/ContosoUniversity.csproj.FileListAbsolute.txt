@@ -77,3 +77,7 @@ D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\Co
 D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\Gebruikers\Iris Oostra\Documenten\Microsoft Repositories\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
